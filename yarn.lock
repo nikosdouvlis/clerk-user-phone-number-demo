@@ -1143,6 +1143,18 @@
   resolved "https://registry.yarnpkg.com/@bcoe/v8-coverage/-/v8-coverage-0.2.3.tgz#75a2e8b51cb758a7553d6804a5932d7aace75c39"
   integrity sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw==
 
+"@clerk/clerk-react@^1.20.0":
+  version "1.20.0"
+  resolved "https://registry.yarnpkg.com/@clerk/clerk-react/-/clerk-react-1.20.0.tgz#12e7ba73de3e8b0aec908430ee846efb3ff9d4a6"
+  integrity sha512-ziR4pZqMyBZdsHf0s7LubHFfaDUP6y7gEPQHqKb5sXq3ySuL1+mJ3ZPOzEXZSC6NOwtiWOZM8TPVVE8c0yYL8w==
+  dependencies:
+    "@clerk/types" "1.12.0"
+
+"@clerk/types@1.12.0":
+  version "1.12.0"
+  resolved "https://registry.yarnpkg.com/@clerk/types/-/types-1.12.0.tgz#a88b4aa42505643eb9664e984b1bf41a781903ab"
+  integrity sha512-DJ3f/+WasXkNNfw9uUiqSB6cPkiZ4HNnRc3++g5F91DS141Mlb6Ye1jJ8LjoOk9TT39h/wPyKUXuhWf9x5Y8Iw==
+
 "@cnakazawa/watch@^1.0.3":
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/@cnakazawa/watch/-/watch-1.0.4.tgz#f864ae85004d0fcab6f50be9141c4da368d1656a"
@@ -8768,6 +8780,11 @@ prepend-http@^1.0.0:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/prepend-http/-/prepend-http-1.0.4.tgz#d4f4562b0ce3696e41ac52d0e002e57a635dc6dc"
   integrity sha1-1PRWKwzjaW5BrFLQ4ALlemNdxtw=
+
+prettier@^2.4.0:
+  version "2.4.0"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.4.0.tgz#85bdfe0f70c3e777cf13a4ffff39713ca6f64cba"
+  integrity sha512-DsEPLY1dE5HF3BxCRBmD4uYZ+5DCbvatnolqTqcxEgKVZnL2kUfyu7b8pPQ5+hTBkdhU9SLUmK0/pHb07RE4WQ==
 
 pretty-bytes@^5.3.0:
   version "5.6.0"
